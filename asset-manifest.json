@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sumitpal130197/Inventory/static/css/main.8a57537c.css",
+    "main.js": "/sumitpal130197/Inventory/static/js/main.310849bf.js",
+    "static/js/488.47974bcb.chunk.js": "/sumitpal130197/Inventory/static/js/488.47974bcb.chunk.js",
+    "static/media/logo.png": "/sumitpal130197/Inventory/static/media/logo.814310fb5c39b3bb6e8a.png",
+    "index.html": "/sumitpal130197/Inventory/index.html",
+    "main.8a57537c.css.map": "/sumitpal130197/Inventory/static/css/main.8a57537c.css.map",
+    "main.310849bf.js.map": "/sumitpal130197/Inventory/static/js/main.310849bf.js.map",
+    "488.47974bcb.chunk.js.map": "/sumitpal130197/Inventory/static/js/488.47974bcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a57537c.css",
+    "static/js/main.310849bf.js"
+  ]
+}
